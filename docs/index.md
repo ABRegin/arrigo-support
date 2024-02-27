@@ -32,27 +32,3 @@ description: Releases and Change Log
 | Release  | Version                                      |  Download |
 | -------- | -------------------------------------------- |  --------------------------------- |
 | Current  | 3.00.28   |  [Download](https://arrigo.blob.core.windows.net/arrigo/Nimbus-AlarmServer3.00.28-ArrigoSetup.exe) |
-
-# www.arrigo.se
-
-## Current build (change logs): 
-- [Frontend](./frontend.html)
-- [Arrigo API](./arrigoapi.html)
-
-## SaaS License Agreement: 
-- [SOFTWARE AS A SERVICE AGREEMENT](./RS_SaaS-Terms%2024-03-2021.pdf)
-- [General Terms and Conditions](./2019%20-%20Eng%20IT%20Services%202014.pdf)
-
-## End User License Agreement: 
-- [RS SOFTWARE SOFTWARE LICENSE TERMS](./RS_EULA_%203-04-2021%20_for%20distributionGeneric.pdf)
-
-## Security statement
-- [Security Statement](./securitystatement.md)
-
-# Release newsletter
-
-We have an automated notification service for your convenience. By subscribing we will notify you as soon as we have a new release available of Arrigo or any other applicable information in regards to Arrigo or its services.
-
-You may unsubscribe at anytime with the same link.
-
-[Sign-up link](http://eepurl.com/hTdlmX)
