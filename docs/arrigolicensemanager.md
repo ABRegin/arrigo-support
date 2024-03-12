@@ -6,6 +6,14 @@ description: Change Log
 
 # Change Log
 
+## 1.1.6
+
+*2024-03-12*
+
+### Migration
+- Infra: Migrated to abregin domain 
+
+
 ## 1.0.131
 
 *2024-02-15*
