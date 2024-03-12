@@ -11,9 +11,9 @@ description: Releases and Change Log
 | Release  | Version                                      | Required EXO installation | Download |
 | -------- | -------------------------------------------- | ------------------------- | --------    
 | Latest   | [1.4.85](./arrigolocalinstaller.html#1485) | EXO2023 Edition 1 build 224 | Via installer (`--latest` flag provided)<br />or [download](https://arrigoartifacts.blob.core.windows.net/arrigo/latest/ArrigoLocalInstaller-EXO2023Edition1_224-1.4.85.exe) |
-| Stable   | [1.4.37](./arrigolocalinstaller.html#1437) | EXO2023 Edition 1 build 198 | [Download](https://arrigoartifacts.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2023Edition1_198-1.4.37.exe) |
-| Legacy | [1.3.5](./arrigolocalinstaller.html#135) | EXO2022 Edition 1 build 13 | [Download](https://arrigoartifacts.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2022Edition1_13-1.3.5.exe) |
-| Legacy | [1.1.312](./arrigolocalinstaller.html#11312) | EXO2019 Edition 4 build 323 | [Download](https://arrigoartifacts.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2019Edition4_323-1.1.312.exe) |
+| Stable   | [1.4.76](./arrigolocalinstaller.html#1476) | EXO2023 Edition 1 build 224 | [Download](https://arrigoartifacts.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2023Edition1_224-1.4.76.exe) |
+<!-- | Legacy | [1.4.37](./arrigolocalinstaller.html#1437) | EXO2023 Edition 1 build 198 | [Download](https://arrigoartifacts.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2022Edition1_198-1.4.37.exe) |
+| Legacy | [1.3.5](./arrigolocalinstaller.html#135) | EXO2022 Edition 1 build 13 | [Download](https://arrigoartifacts.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2022Edition1_13-1.3.5.exe) | -->
 
 *System requirements, hardware recommendations and installation instructions can be found at [arrigodocs.regincontrols.com](https://arrigodocs.regincontrols.com//Install%20and%20Configure).*
 
