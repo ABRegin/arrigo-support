@@ -6,13 +6,12 @@ description: Change Log
 
 # Change Log
 
-## 1.1.6
+## 1.1.7
 
 *2024-03-12*
 
 ### Migration
 - Infra: Migrated to abregin domain 
-
 
 ## 1.0.131
 
