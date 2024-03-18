@@ -5,6 +5,27 @@ description: Change Log
 ---
 # Change Log
 
+## 1.5.2
+2024-03-18
+- Frontend: [1.2.20](./frontend.html#1220)
+
+- Arrigo Local API: [1.5.15](./arrigolocalapi.html#1515)
+
+- Arrigo Local Scada Function: [1.5.10](./arrigolocalscadafunction.html#1510)
+
+- Arrigo config transpiler: [1.5.33](./arrigo.config.transpiler.html#1533)
+
+- Arrigo Local Services  
+  - Wamp Host: [1.1.7](./services/arrigo-wamp-host.html#117)
+  - Domain Controller: [1.1.19](./services/arrigo-domain-controller.html#1119)
+  - Volumes: [1.2.5](./services/arrigo-volumes.html#125)
+  - Chart Service: [1.1.0](./services/arrigo-services-chart.html#110)
+  - State Service: [1.1.3](./services/arrigo-services-state.html#113)
+  - DB Service: [1.1.2](./services/arrigo-services-db.html#112)
+  - Server-Side Functions: [1.1.2](./arrigo-serverside-functions.html#112)
+
+- Required EXO installation: [EXO 2024 Edition 1 - 20](https://abregin.sharepoint.com/sites/ReginSoftwareDistribution/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FReginSoftwareDistribution%2FShared%20Documents%2FEXO%202024%20Edition%201%2FChange%20log%20EXO%202024%20Edition%201%2Ehtml&parent=%2Fsites%2FReginSoftwareDistribution%2FShared%20Documents%2FEXO%202024%20Edition%201&p=true&ga=1)
+
 ## 1.4.85
 2024-03-11
 - Frontend: [1.1.309](./frontend.html#11309)

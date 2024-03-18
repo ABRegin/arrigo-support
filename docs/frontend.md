@@ -5,6 +5,10 @@ description: Change Log
 ---
 # Change Log
 
+## 1.2.20
+*2024-03-18*
+- Migration: No changes, only migrated to AB Regin's domain.
+
 ## 1.1.309
 *2024-03-11*
 - Merged PR 815: Feature: AZ#2758 Add ability to optionally retain filters after navigation

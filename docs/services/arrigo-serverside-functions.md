@@ -8,6 +8,12 @@ description: Change Log
 
 # 1.0.2
 
+*2024-03-18*
+
+- Migration: No changes, only migrated to AB Regin's domain.
+
+# 1.0.2
+
 *2023-12-18*
 
 - AZ#2520: Waiting 5s before opening connection to router (#19)

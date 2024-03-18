@@ -6,6 +6,11 @@ description: Change Log
 
 # Change Log
 
+## 1.5.33
+*2024-03-18*
+
+- Migration: No changes, only migrated to AB Regin's domain. 
+
 ## 1.4.10
 *2024-02-06*
 - Hotfix: AZ#2431 No icons on popup windows (#20)
