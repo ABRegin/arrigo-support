@@ -6,7 +6,7 @@ description: Change Log
 
 # Change Log
 
-# 1.0.2
+# 1.1.1
 
 *2024-03-18*
 

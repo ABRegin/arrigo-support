@@ -22,7 +22,7 @@ description: Change Log
   - Chart Service: [1.1.0](./services/arrigo-services-chart.html#110)
   - State Service: [1.1.3](./services/arrigo-services-state.html#113)
   - DB Service: [1.1.2](./services/arrigo-services-db.html#112)
-  - Server-Side Functions: [1.1.2](./arrigo-serverside-functions.html#112)
+  - Server-Side Functions: [1.1.1](./arrigo-serverside-functions.html#111)
 
 - Required EXO installation: [EXO 2024 Edition 1 - 20](https://abregin.sharepoint.com/sites/ReginSoftwareDistribution/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FReginSoftwareDistribution%2FShared%20Documents%2FEXO%202024%20Edition%201%2FChange%20log%20EXO%202024%20Edition%201%2Ehtml&parent=%2Fsites%2FReginSoftwareDistribution%2FShared%20Documents%2FEXO%202024%20Edition%201&p=true&ga=1)
 
