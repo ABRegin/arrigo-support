@@ -11,7 +11,7 @@ description: Change Log
 *2024-03-12*
 
 ### Migration
-- Infra: Migrated to abregin domain 
+- Migration: No changes, only migrated to AB Regin's domain. 
 
 ## 1.0.131
 
