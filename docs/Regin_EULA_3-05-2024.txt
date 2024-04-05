@@ -1,0 +1,133 @@
+AB Regin – 5 March 2024 
+
+AB REGIN SOFTWARE LICENSE TERMS  
+
+1. Acceptance of terms
+======================
+1.1  By accessing, installing or using Regin’s software (“Software”), you (“Licensee”) hereby accept and agree to the Regin Software License Terms (“License Terms”). 
+1.2  Using the Software is strictly prohibited if you do not agree to the License Terms. 
+1.3  Licensee confirms that it understands and agrees to be bound by the License Terms with respect to all use and handling of the Software.
+1.4  This agreement is entered into between Licensee and the licensor AB Regin, corporate identity number 556414-5455, Bangårdsvägen 35, SE-428 36 Kållered, Sweden (“Regin”).
+1.5  These License Terms apply regardless of whether Licensee has purchased the License directly from Regin or from any intermediary/reseller/integrator (“Intermediary”) authorized by Regin.
+1.6  In case of any discrepancy between the License Terms and any written agreement signed by Licensee and Regin (respectively by Licensee and Intermediary), such written agreement shall take precedence. 
+
+2. Grant of License
+====================
+2.1  The Licensee obtains a non-exclusive right to use the Software ("License").
+2.2  The License is non-assignable, non-transferable and non-sublicensable, except as explicitly agreed.
+
+2.3  License Fee
+2.4  The License is conditioned upon the Licensee having paid the agreed license fee. 
+2.5  The license fee is exclusive of any VAT or similar taxes or public duties and fees.  All such taxes, duties and fees shall be paid by the Licensee.
+
+
+3. Scope of the License
+========================
+3.1  The Licensee may use, access, display, run or otherwise interact with one copy of the Software, or any prior version for the same operating system, on a single computer, workstation, terminal, handheld PC, pager, “smart phone”, or other digital electronic device (hereinafter collectively “Computer”). 
+3.2  The Licensee may use only the licensed copy of the Software. The Licensee may provide access to the Software for the number of users which has been agreed with Regin. 
+3.3  The Licensee may store or install a copy of the Regin Software on a storage device, such as a network server, used solely to run the Software on the Licensee’s other Computers over an internal network. 
+3.4  Licensee shall introduce routines and control functions in order to ensure that the number of users that may access the Software do not exceed the number of users agreed.
+3.5  Copies of the Software may be made for safety or archival purposes only, and for no other purpose whatsoever. These License Terms shall apply also to such copies.
+3.6  Without Regin’s prior written consent, the Licensee is not entitled to use, copy or in any other way transfer or use the Software in any manner except as stated in the License Terms. Consequently, the Licensee is not entitled to decompile or disassemble the Software or information or material connected to the Software, except to the extent expressly permitted by mandatory law.
+3.7  Marking and/or information regarding patent, copyright or copyright notices in software or computer media through which the Software is accessible to the Licensee may not be removed, changed or modified in any way. The same applies to corresponding marking of all documentation provided by Regin.
+3.8  Except as explicitly agreed in writing by Regin, Licensee is not entitled to grant any sublicenses, lease, lend or in any way let anyone else, whether directly or indirectly or against compensation or free of charge, use or in any way dispose of the Software; provided, however, that nothing herein shall prevent Licensee from using the Software in its ordinary course of its business.
+
+
+4. Additional restrictions of use by Licensee
+=============================================
+4.1  Licensee shall not, and shall not permit anyone to:
+  4.1.1 use or access the Software to provide service bureau, time-sharing or other computer hosting services to any third party,
+  4.1.2 modify or create derivative works based upon the Software,
+  4.1.3 reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software, 
+  4.1.4 access the Software in order to build a similar product or competitive product.
+
+
+5. Certain obligations for Licensee
+===================================
+5.1  Licensee shall comply with all applicable laws in connection with its use of the Software, including those laws related to data privacy. 
+5.2  Licensee shall notify Regin immediately of any unauthorised use of any password or user id or any other known or suspected breach of security. 
+5.3  Licensee shall report to Regin immediately and use reasonable efforts to stop any unauthorised use of the Software that is known or suspected by Licensee.
+
+
+6. Third Party Software
+=======================
+6.1  The Software may include certain third-party software. 
+6.2  The Licensee may use third party software in accordance with the licensing terms issued by such third-party software licensor. 
+6.3  Regin does not have any liability for third party software.  
+
+
+7. Regin’s right to the Software 
+================================
+7.1  Regin owns the Software, respectively has a right to grant sublicenses. 
+7.2  Regin’s ownership includes the copyright and/or as applicable, patent rights to the Software.
+7.3  The License does not include any transfer to the Licensee of Regin’s ownership of the Software (including the computer media through which the Software is made available), such as copyrights, or as applicable, patents rights.
+
+
+8. Delivery
+===========
+8.1  The Software shall be delivered in accordance with what has been agreed with Regin. Regin is not responsible for the installation of the Software, unless otherwise agreed in writing. 
+8.2  If Regin agrees to assist with installation of the Software, Licensee shall pay for this in accordance with Regin’s price list for such services in force at the time of the installation.
+
+
+9. Regin’s limited liability, support, and warranty
+===================================================
+9.1  Examination of the Software and claims
+At delivery, Licensee shall examine the functionality and quality of the Software. If Licensee concludes that the Software deviates from agreed specifications or requirements for the Software (hereinafter referred to as "Defects"), the Licensee shall notify Regin in writing within thirty (30) days of delivery, with all available details regarding the alleged Defect. Failing this, the Licensee loses the right to claim any support or remedy with respect to any Defects which could have been discovered within such 30-day period.
+
+9.2  The Licensee’s right to claim any support or remedy is further conditioned on full compliance with each and all of the following provisions:
+  9.2.1 the Licensee shall have utilized the Software in the work environment prescribed by Regin and according to manuals and all other instructions and directions of Regin, 
+  9.2.2 Licensee shall have utilized the Software with machine equipment agreed with Regin, 
+  9.2.3 it can be shown that the Defect has occurred in an unaltered most current version of the Software,
+  9.2.4 the Licensee at its own costs shall have provided Regin with all necessary information and/or material, in order for Regin to verify the alleged Defect, and
+  9.2.5 the Defect shall have occurred within one hundred eighty (180) days from delivery of the Software.
+
+9.3  Support
+  9.3.1 Regin will, subject to what is stated above, free of charge provide Licensee with appropriate support in case of Defects of the Software.
+  9.3.2 The support will be provided within reasonable time from the date Licensee has notified Regin in writing of the Defect.
+  9.3.3 At the request of Licensee Regin may, at its sole discretion, provide support not related to any Defects. Licensee shall pay Regin for such support in accordance with Regin's price list in effect from time to time.
+
+
+9.4  Remedy in case of Defects
+In case of a Defect, Regin will, subject to what is stated above, free of charge either, at the option of Regin, (i) remedy the Defect, (ii) replace the Software, or (iii) refund the license fee.
+
+9.5  Limited warranty and limitation of liability
+  9.5.1 Regin represents and warrants that the Software will be free from defects in material and workmanship for a period of one-hundred-eighty (180) days after delivery. Except for this warranty, Regin makes no, and hereby disclaim any representation or warranty of any kind, express or implied, with respect to the Software, whether as to merchantability, fitness for a particular purpose, warranties arising from course of dealing or usage or trade or any other matter. No employee, representative or agent of Regin has any authority to bind Regin to any affirmation, representation or warranty except as stated in this article. 
+  9.5.2 Regin's sole obligation in case of a breach of warranty shall be as explicitly set out in the License Terms. Under no circumstances shall Regin have any liability to the Licensee or any other person or entity for any indirect, special, incidental or consequential damages of any description, whether arising out of warranty or other contract, negligence or other tort, or otherwise, including without limitation, lost goodwill, loss of investment or other losses. 
+  9.5.3 Regin shall not be liable at all for the functionality or quality of plug-ins or other auxiliary programs designed to work together with the Software, or for the interoperability of such programs together with the Software. 
+
+
+10.  Term and Termination
+=========================
+10.1  Unless otherwise agreed in writing between the parties, after the license fee has been paid the License remains in force, subject to Article 8.2 hereof, until terminated in writing by Licensee with three (3) months’ notice of termination. 
+10.2  Regin shall have the right to terminate the License with immediate effect (and claim damages) if the Licensee should breach any of its material obligations under these License Terms.
+10.3  Licensee shall not be entitled to any refund of the license fee irrespective of the reason for termination of the License.
+
+
+11.  Return of the Software
+===========================
+11.1  In case of termination of the License, irrespective of the reason for such termination, the Licensee shall immediately return to Regin the Software and all copies, parts and documents related thereto (with exception for archived copies archived by the Licensee in accordance with any applicable law). In connection therewith, the Licensee shall confirm in writing that it has fully complied with this obligation.
+
+
+12.  Confidentiality
+====================
+12.1  The Software contains business and professional know-how and other confidential information belonging to Regin that have been disclosed and made accessible to third parties only through the License. The Licensee is obliged not to make the Software available to third parties without Regin’s written permission, and to take all appropriate measures to prevent disclosure to third parties of such know-how and confidential information. The Licensee shall ensure that its employees, agents and other representatives are informed of and complies with this confidentiality obligation as well as the obligations regarding the rules for the use of the Software. During the term of the License, the Licensee shall use, store and maintain the Software in a manner that will prevent any dissemination of know-how and confidential information.
+12.2  The confidentiality obligation will remain in force after the expiry of the License and these License Terms. 
+
+
+13.  Liability of the Licensee
+==============================
+13.1  If the Licensee is in breach any of the provisions of these License Terms, the Licensee shall fully compensate Regin for any loss incurred by Regin as a result thereof.
+
+
+14.  Force Majeure
+==================
+14.1  Regin shall not be liable to Licensee for any delay or non-performance of its obligations hereunder in the event and to the extent that such delay or non-performance is due to an event of force majeure.
+14.2  Events of force majeure are events beyond the control of Regin which occur after the date that these License Terms have entered into force and which were not reasonably foreseeable at that time and whose effects are not capable of being overcome without reasonable expense and/or loss of time. 
+14.3  Events of force majeure shall include (without being limited to) pandemic, epidemic, war, civil unrest, blockades, boycotts, strikes, lock-outs and other general labor disputes, acts of government or public authorities, natural disasters, exceptional weather conditions, breakdown or general unavailability of transport facilities, accidents, fire, explosions and general shortages of energy, failures in external network, software defects or inefficiencies (other than with respect to the Software), or other defects in computer equipment. Strikes, lock outs, boycotts or blockades are events of force majeure even if the Supplier has taken the action itself or is the subject of the action.
+
+
+15.  Applicable law and disputes
+================================
+15.1  These License Terms are governed by Swedish law. 
+15.2  Any dispute, controversy or claim arising out of or in connection with this Agreement, or the breach, termination, or invalidity thereof, shall be finally settled by arbitration in accordance with the Arbitration Rules of the Arbitration Institute of the Stockholm Chamber of Commerce. 
+15.3  The arbitral tribunal shall be composed of three arbitrators. The seat shall be Stockholm. The language to be used in the arbitral proceedings shall be English.
