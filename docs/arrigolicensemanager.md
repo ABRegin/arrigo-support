@@ -6,6 +6,19 @@ description: Change Log
 
 # Change Log
 
+## 1.2.0
+
+*2024-04-09*
+
+### New Features
+
+- **Port Readdressing**: Implemented a feature that automatically assigns an available port to the backend service if the default port is already in use. This ensures smooth operation even in environments with conflicting port allocations.
+
+### Fixes/Improvements
+
+- **Enhanced Stability**: Made various enhancements to the overall stability and reliability of the application.
+- **Fixed Dependency Issue**: Resolved an issue where the license manager required an Arrigo Local installation to function.
+
 ## 1.1.7
 
 *2024-03-12*
