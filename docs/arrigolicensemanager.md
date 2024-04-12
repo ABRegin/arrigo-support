@@ -12,7 +12,7 @@ description: Change Log
 
 ### New Features
 
-- **Port Readdressing**: Implemented a feature that automatically assigns an available port to the backend service if the default port is already in use. This ensures smooth operation even in environments with conflicting port allocations. To disable this functionality, supply a port by running the installer with "-p XXXXX" where XXXXX is the port number.
+- **Port Readdressing**: Implemented a feature that automatically assigns an available port to the backend service if the default port is already in use. This ensures smooth operation even in environments with conflicting port allocations. To disable this functionality, supply a port (between 49152 and 65535) by running the installer with "-p PORT" where PORT is the port number.
 
 ### Fixes/Improvements
 
