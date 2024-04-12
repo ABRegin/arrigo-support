@@ -6,9 +6,9 @@ description: Change Log
 
 # Change Log
 
-## 1.2.0
+## 1.2.2
 
-*2024-04-09*
+*2024-04-12*
 
 ### New Features
 
