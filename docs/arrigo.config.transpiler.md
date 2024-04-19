@@ -6,13 +6,21 @@ description: Change Log
 
 # Change Log
 
+## SERVICERELEASEVERSION
+
+*2024-05-21*
+
+- Fix: Color element's style property is now evaluated properly. #31164
+
 ## 1.5.33
+
 *2024-03-18*
 
 - Migration: No changes, only migrated to AB Regin's domain. 
 
 ## 1.4.10
 *2024-02-06*
+
 - Hotfix: AZ#2431 No icons on popup windows (#20)
 
 ## 1.4.9

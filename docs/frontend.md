@@ -5,12 +5,22 @@ description: Change Log
 ---
 # Change Log
 
+## SERVICERELEASEVERSION
+
+*2024-05-21*
+
+- Fix: Added support for binding the **visible** and **enabled** field of a **click area** to a **variable**. #26396
+- Fix: When exporting values from a **chart** the **date format** is now consistent. #29569
+- Fix: When exporting values from a chart all configured signals are exported properly.
+
 ## 1.2.20
 *2024-03-18*
+
 - Migration: No changes, only migrated to AB Regin's domain.
 
 ## 1.1.309
 *2024-03-11*
+
 - Merged PR 815: Feature: AZ#2758 Add ability to optionally retain filters after navigation
 - Merged PR 811: Hotfix: Fix API crash on MeterImport config admin view Remove isSystemConfiguration from MeterImportDescriptionsQuery
 - Merged PR 810: Hotfix: Minor overflow fix Hotfix: Minor overflow fix
