@@ -9,14 +9,14 @@ description: Change Log
 
 2024-05-XY
 
-- **View Designer, #31164:** Color element's style property is now evaluated properly.
-- **View Designer, #26396:** Added support for binding the visible and enabled fields of a click area to a variable. 
-- **Chart export, #29569, #29219:** When exporting values from a chart the date format is now consistent. 
-- **Chart export, #30853, #29569, #30892, #31467:** When exporting values from a chart all configured signals and their values are exported properly.
-- **Chart export, \#27964:** Added button to select between exporting raw values or capped decimal numbers (Default cap is 2).
-- **Chart export, #31280:** Removed spaces from the number format.
-- **Chart export, \#30417:** Changed so xlsx is the pre selected file format.
-- **View, #32069:** Fixed issue where older animation view files would throw an index out of exception when opening.
+- **View Designer, TP#31164:** Color element's style property is now evaluated properly.
+- **View Designer, TP#26396:** Added support for binding the visible and enabled fields of a click area to a variable. 
+- **Chart export, TP#29569, TP#29219:** When exporting values from a chart the date format is now consistent. 
+- **Chart export, TP#30853, TP#29569, TP#30892, TP#31467:** When exporting values from a chart all configured signals and their values are exported properly.
+- **Chart export, TP\#27964:** Added button to select between exporting raw values or capped decimal numbers (Default cap is 2).
+- **Chart export, TP#31280:** Removed spaces from the number format.
+- **Chart export, TP#30417:** Changed so xlsx is the pre selected file format.
+- **View, TP#32069:** Fixed issue where older animation view files would throw an index out of exception when opening.
 
 ## 1.5.2
 
