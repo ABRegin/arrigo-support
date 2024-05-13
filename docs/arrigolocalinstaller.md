@@ -24,7 +24,7 @@ description: Change Log
   - DB Service: [1.1.2](./services/arrigo-services-db.html#112)
   - Server-Side Functions: [1.1.1](./services/arrigo-serverside-functions.html#111)
 
-- Required EXO installation: [EXO 2024 Edition 1 - 20](https://abregin.sharepoint.com/sites/ReginSoftwareDistribution/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FReginSoftwareDistribution%2FShared%20Documents%2FEXO%202024%20Edition%201%2FChange%20log%20EXO%202024%20Edition%201%2Ehtml&parent=%2Fsites%2FReginSoftwareDistribution%2FShared%20Documents%2FEXO%202024%20Edition%201&p=true&ga=1)
+- Required EXO installation: [EXO 2024 Edition 1 - 20](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/EbT8mDEUCRBIkbrjsu4t8sYBe8vm6U6BpRAG3HitsVmicw?e=ntP2c5)
 
 ## 1.4.85
 2024-03-11
