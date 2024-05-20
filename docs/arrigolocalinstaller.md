@@ -5,8 +5,51 @@ description: Change Log
 ---
 # Change Log
 
+## 1.5.12
+
+2024-05-20
+
+- **View Designer, TP#31164:** Color element's style property is now evaluated properly.
+
+- **View Designer, TP#26396:** Added support for binding the visible and enabled fields of a click area to a variable. 
+
+- **Chart export, TP#29569, TP#29219:** When exporting values from a chart the date format is now consistent. 
+
+- **Chart export, TP#30853, TP#29569, TP#30892, TP#31467:** When exporting values from a chart all configured signals and their values are exported properly.
+
+- **Chart export, TP#27964:** Added button to select between exporting raw values or capped decimal numbers (Default cap is 2).
+
+- **Chart export, TP#31280:** Removed spaces from the number format.
+
+- **Chart export, TP#30417:** Changed so xlsx is the pre selected file format.
+
+- **View, TP#32069:** Fixed issue where older animation view files would throw an index out of exception when opening.
+
+  
+
+------
+
+*Component Versions*
+
+- Frontend: 1.2.30
+- Arrigo Local API: 1.5.17
+- Arrigo Local Scada Function: 1.5.12
+- Arrigo config transpiler: 1.5.45
+- Arrigo Local Services  
+  - Wamp Host: 1.1.24
+  - Domain Controller: 1.1.19
+  - Volumes: 1.2.5
+  - Chart Service: 1.1.0
+  - State Service: 1.1.3
+  - DB Service: 1.1.2
+  - Server-Side Functions: 1.1.1
+
+Requires an EXO 2024 installation.
+
 ## 1.5.2
+
 2024-03-18
+
 - Frontend: [1.2.20](./frontend.html#1220)
 
 - Arrigo Local API: [1.5.15](./arrigolocalapi.html#1515)
