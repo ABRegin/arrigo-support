@@ -6,12 +6,6 @@ description: Change Log
 
 # Change Log
 
-## SERVICERELEASEVERSION
-
-*2024-05-21*
-
-- Fix: Color element's style property is now evaluated properly. #31164
-
 ## 1.5.33
 
 *2024-03-18*

@@ -5,14 +5,6 @@ description: Change Log
 ---
 # Change Log
 
-## SERVICERELEASEVERSION
-
-*2024-05-21*
-
-- Fix: Added support for binding the **visible** and **enabled** field of a **click area** to a **variable**. #26396
-- Fix: When exporting values from a **chart** the **date format** is now consistent. #29569
-- Fix: When exporting values from a chart all configured signals are exported properly.
-
 ## 1.2.20
 *2024-03-18*
 
