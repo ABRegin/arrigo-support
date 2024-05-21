@@ -23,7 +23,7 @@ description: Change Log
 
 - **Chart export, TP#30417:** Changed so xlsx is the pre selected file format.
 
-- **View, TP#32069:** Fixed issue where older animation view files would throw an index out of exception when opening.
+- **View, TP#32069:** Fixed issue where older animation view files would throw an index out of range exception when opening.
 
   
 
