@@ -67,7 +67,7 @@ Requires an EXO 2024 installation.
   - DB Service: [1.1.2](./services/arrigo-services-db.html#112)
   - Server-Side Functions: [1.1.1](./services/arrigo-serverside-functions.html#111)
 
-- Required EXO installation: [EXO 2024 Edition 1 - 20](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/EbT8mDEUCRBIkbrjsu4t8sYBe8vm6U6BpRAG3HitsVmicw?e=ntP2c5)
+- Required EXO installation: [EXO 2024 Edition 1 - 20](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/EWTvx96q0FhEmU5b4bVNB3cBF8WEj8UtwTTuRiLWa_kW1w?e=lx8sTU)
 
 ## 1.4.85
 2024-03-11
