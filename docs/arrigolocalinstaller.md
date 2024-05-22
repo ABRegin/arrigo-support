@@ -44,7 +44,7 @@ description: Change Log
   - DB Service: 1.1.2
   - Server-Side Functions: 1.1.1
 
-Requires an [EXO 2024](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ETptGGpee6FKnCPSwcii-9YBwCFpAREdewd4N3fgMo6OBQ?e=4TzGVa) installation.
+Requires an [EXO 2024](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/EWTvx96q0FhEmU5b4bVNB3cBF8WEj8UtwTTuRiLWa_kW1w?e=lx8sTU) installation.
 
 ## 1.5.2
 
