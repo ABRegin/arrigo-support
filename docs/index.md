@@ -29,4 +29,4 @@ description: Releases and Change Log
 
 | Release  | Version                                      |  Download |
 | -------- | -------------------------------------------- |  --------------------------------- |
-| Current  | 3.00.28   |  [Download](https://arrigoartifacts.blob.core.windows.net/arrigo/Nimbus-AlarmServer3.00.28-ArrigoSetup.exe) |
+| Current  | 3.00.32   |  [Download](https://arrigoartifacts.blob.core.windows.net/arrigo/Nimbus%20Alarm%20Server%203.00.32%20for%20Arrigo%20Setup.exe) |
