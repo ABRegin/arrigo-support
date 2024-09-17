@@ -15,7 +15,7 @@ description: Change Log
   
 - **Arrigo:** Enabled maneuver panel by default if theme/settings.json file doesn't already exist.
 
-- **Arrigo - Attach project:** Added redundancy.
+- **Arrigo - Attach project:** Added redundancy when killing processes.
 
 - **View Designer, TP#29035:** Alt + movement keys to move 1 step..
 
