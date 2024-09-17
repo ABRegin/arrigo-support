@@ -5,6 +5,18 @@ description: Change Log
 ---
 # Change Log
 
+## 1.5.17
+
+2024-09-26
+
+- **Arrigo:** Added new "Read all" button to read all notifications.
+
+- **Arrigo:** Added support to change what port EXOscada and Arrigo are hosted on.
+  
+- **Arrigo:** Enabled maneuver panel by default if theme/settings.json file doesn't already exist.
+
+- **Arrigo - Attach project:** Added redundancy.
+
 ## 1.5.12
 
 2024-05-20
