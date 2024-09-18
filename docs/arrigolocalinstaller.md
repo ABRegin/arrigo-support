@@ -17,7 +17,7 @@ description: Change Log
 
 - **Arrigo - Attach project:** Added redundancy when killing processes.
 
-- **View Designer, TP#29035:** Alt + movement keys to move 1 step..
+- **View Designer, TP#29035:** Alt + movement keys to move objects 1 pixel at a time.
 
 - **View Designer, TP#29031:** Improvements to object selection (Select in front).
   
