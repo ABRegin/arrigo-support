@@ -9,20 +9,10 @@ description: Change Log
 
 2024-09-26
 
-- **Arrigo, TP#31325:** Added new "Read all" button to read all notifications.
-
-- **Arrigo, TP#33142:** Added support to change what port EXOscada and Arrigo are hosted on.
-  
-- **Arrigo:** Enabled maneuver panel by default if theme/settings.json file doesn't already exist.
-
-- **Arrigo - Attach project:** Added redundancy when killing processes.
-
-- **View Designer, TP#29035:** Alt + movement keys to move objects 1 pixel at a time.
-
-- **View Designer, TP#29031:** Improvements to object selection (Select in front).
-  
-- **View Designer, TP#30405:** Fallback to bundled sessionEvents.js
-  
+- **TP#31325:** Added new "Read all" button to read all notifications.
+- **TP#33142:** Added support to change what port EXOscada and Arrigo are hosted on.
+- **Maneuver Panel:** Enabled maneuver panel by default if theme/settings.json file doesn't already exist.
+- **Attach project:** Added redundancy when killing processes.
 **General Updates:** We have updated multiple third party libraries of the system.
 
 ## 1.5.12
