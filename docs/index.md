@@ -25,7 +25,7 @@ description: Releases and Change Log
 
 *Installation instructions and general help can be found at [arrigodocs.regincontrols.com](https://arrigodocs.regincontrols.com//Install%20and%20Configure/02_Arrigo%20License%20Manager%20installer/).*
 
-## Nimbus
+## Nimbus Alarm Server
 
 | Release  | Version                                      |  Download |
 | -------- | -------------------------------------------- |  --------------------------------- |
