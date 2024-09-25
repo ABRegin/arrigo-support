@@ -5,15 +5,36 @@ description: Change Log
 ---
 # Change Log
 
-## 1.5.17
+## 1.5.18
 
-2024-09-26
+2024-09-25
 
-- **TP#31325:** Added new "Read all" button to read all notifications.
-- **TP#33142:** Added support to change what port EXOscada and Arrigo are hosted on.
-- **Maneuver Panel:** Enabled maneuver panel by default if theme/settings.json file doesn't already exist.
-- **Attach project:** Added redundancy when killing processes.
+- **Notification button, TP#31325:** Added new "Read all" button to read all notifications.
+- **Customise port, TP#33142:** Added support to change what port Arrigo is hosted on.
+- **Maneuver panel:** Enabled maneuver panel by default if theme/settings.json file doesn't already exist.
+- **Attach project:** Added redundancy to forcefully terminate processes.
+
 **General Updates:** We have updated multiple third party libraries of the system.
+
+  
+------
+
+*Component Versions*
+
+- Frontend: 1.2.40
+- Arrigo Local API: 1.5.32
+- Arrigo Local Scada Function: 1.5.16
+- Arrigo config transpiler: 1.5.53
+- Arrigo Local Services  
+  - Wamp Host: 1.1.31
+  - Domain Controller: 1.1.25
+  - Volumes: 1.2.7
+  - Chart Service: 1.1.6
+  - State Service: 1.1.10
+  - DB Service: 1.1.2
+  - Server-Side Functions: 1.1.4
+
+Requires an [EXO 2024](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/EWTvx96q0FhEmU5b4bVNB3cBF8WEj8UtwTTuRiLWa_kW1w?e=lx8sTU) installation.
 
 ## 1.5.12
 
