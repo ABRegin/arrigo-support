@@ -5,6 +5,19 @@ description: Change Log
 ---
 # Change Log
 
+## 1.5.X
+2024-X-X
+###Frontend
+- Improvements to maneuver panel.
+- List widget icons now appear more compact for smaller screens.
+- Fix to url port (Needs testing)
+
+### API
+- Remove folder if account.
+
+### WAMP, DC, Attach
+- Adds new property apiurl to globalSettings. (Needs documentation update on docs site.)
+
 ## 1.5.18
 
 2024-09-25
