@@ -9,7 +9,7 @@ description: Change Log
 
 2024-X-X
 
-###Frontend
+### Frontend
 - Improvements to maneuver panel.
 - List widget icons now appear more compact for smaller screens.
 - Fix to url port (Needs testing)
