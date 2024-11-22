@@ -15,13 +15,10 @@ description: Change Log
 - Fix to url port (Needs testing)
 - Changed XLSX chart export signal name to signal title.
 - Added Title column to CSV chart export.
-- Fixed issue with exporting (and parsing) chart signals that are not in db but in views. (This was never reported by customers, maybe we don't put this info here)
 - "Include axis configuration" is now checked (instead of "include saved filters") if axis configuration exists. (Needs testing)
-- Enable SSO via oauth2 (arrigoID). (Maybe we don't say this also? as this should apply only to SI)
 
 ### API
 - Fixed an issue where the root folder alarms were not appearing in the alarms view.
-- Added user log REST post endpoint (we don't mention this here as well, I guess)
 
 ### WAMP, DC
 - Adds new property apiurl to globalSettings. (Needs documentation update on docs site.)
