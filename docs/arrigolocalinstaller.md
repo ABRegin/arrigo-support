@@ -16,6 +16,7 @@ description: Change Log
 - Changed XLSX chart export signal name to signal title.
 - Added Title column to CSV chart export.
 - "Include axis configuration" is now checked (instead of "include saved filters") if axis configuration exists. (Needs testing)
+- Allow to use OAuth2 (ArrigoID) SSO login solution.
 
 ### API
 - Fixed an issue where the root folder alarms were not appearing in the alarms view.
