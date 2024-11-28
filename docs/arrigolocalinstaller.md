@@ -12,11 +12,10 @@ description: Change Log
 ### Frontend
 - Improvements to maneuver panel.
 - List widget icons now appear more compact for smaller screens.
-- Fix to url port (Needs testing)
 - Changed XLSX chart export signal name to signal title.
 - Added Title column to CSV chart export.
 - "Include axis configuration" is now checked (instead of "include saved filters") if axis configuration exists. (Needs testing)
-- Allow to use OAuth2 (ArrigoID) SSO login solution.
+- Fixed issue with exporting (and parsing) chart signals that are not in db.
 
 ### API
 - Fixed an issue where the root folder alarms were not appearing in the alarms view.
