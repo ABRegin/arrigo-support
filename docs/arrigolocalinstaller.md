@@ -26,7 +26,10 @@ description: Change Log
 
 ### Attach
 - Adds new property apiurl to globalSettings. (Needs documentation update on docs site.)
-- **Versioning Bug, TP#35606:** Fixes issue where old component wouldn't be overwritten by installation. 
+- **Versioning Bug, TP#35606:** Fixes issue where old component wouldn't be overwritten by installation.
+
+### Installation
+- Updates the hosting bundle to use .NET 8.0.11
 
 ## 1.5.18
 
