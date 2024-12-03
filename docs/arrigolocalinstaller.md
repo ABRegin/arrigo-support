@@ -16,6 +16,7 @@ description: Change Log
 - Added Title column to CSV chart export.
 - "Include axis configuration" is now checked (instead of "include saved filters") if axis configuration exists. (Needs testing)
 - Fixed issue with exporting (and parsing) chart signals that are not in db.
+- Fixed issue with Alarm Filters being reset when selecting an alarm in the list.
 
 ### API
 - Fixed an issue where the root folder alarms were not appearing in the alarms view.
