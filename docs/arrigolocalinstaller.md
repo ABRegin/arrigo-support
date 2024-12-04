@@ -11,15 +11,15 @@ description: Change Log
 
 - **.NET Update, TP#36796** Changes so the newest .NET 8 Hosting Bundle is installed. 
 - **Alarm Filters, TP#37063** Fixed issue with Alarm Filters being reset when selecting an alarm in the list.
-- **Alarm Visibility TP#34900** Fixed an issue where the root folder alarms were not appearing in the alarms view.
-- **Chart export TP#26368** Added Title column to CSV chart export.
-- **Chart export TP#26368** Changed XLSX chart export signal name to signal title.
-- **Chart export TP#26368** Fixed issue with exporting (and parsing) chart signals that are not in db.
+- **Alarm Visibility, TP#34900** Fixed an issue where the root folder alarms were not appearing in the alarms view.
+- **Chart export, TP#26368** Added Title column to CSV chart export.
+- **Chart export, TP#26368** Changed XLSX chart export signal name to signal title.
+- **Chart export, TP#26368** Fixed issue with exporting (and parsing) chart signals that are not in db.
 - **Chart Axis Configuration, TP#36028** "Include axis configuration" is now checked (instead of "include saved filters") if axis configuration exists.
-- **Maneuver panel TP#36033** Improved handling of inputting values.
+- **Maneuver panel, TP#36033** Improved handling of inputting values.
 - **Modifying hostname, TP#35949** Allows for modification of the structure of folders in IIS. More information about the new apiurl property can be found here: [Advanced Configuration](https://arrigodocs.regincontrols.com/Install%20and%20Configure/Settings/00_globalsettings.json/#globalsettingsjson)
 - **Versioning Bug, TP#35606:** Fixes issue where old component wouldn't be overwritten by installation.
-- **Widget icons TP#36136** List widget icons now appear more compact for smaller screens.
+- **Widget icons, TP#36136** List widget icons now appear more compact for smaller screens.
 
 ## 1.5.18
 
