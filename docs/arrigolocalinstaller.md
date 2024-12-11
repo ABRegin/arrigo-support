@@ -5,9 +5,9 @@ description: Change Log
 ---
 # Change Log
 
-## 1.5.X
+## 1.5.20
 
-2024-X-X
+2024-12-11
 
 - **.NET Update, TP#36796** Changes so the newest .NET 8 Hosting Bundle is installed. 
 - **Alarm Filters, TP#37063** Fixed issue with Alarm Filters being reset when selecting an alarm in the list.
