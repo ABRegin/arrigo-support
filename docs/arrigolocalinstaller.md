@@ -5,6 +5,12 @@ description: Change Log
 ---
 # Change Log
 
+## 1.5.21
+
+2024-12-17
+
+- **Removed .NET 7 dependency.**
+
 ## 1.5.20
 
 2024-12-11
