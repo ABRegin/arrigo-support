@@ -6,6 +6,13 @@ description: Change Log
 
 # Change Log
 
+## 1.2.15
+
+*2025-04-03*
+
+### Changes
+- Updated dependencies.
+
 ## 1.2.2
 
 *2024-04-12*
