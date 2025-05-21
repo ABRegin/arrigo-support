@@ -5,11 +5,12 @@ description: Change Log
 ---
 # Change Log
 
-## 1.5.22
+## 1.5.24
 
-2025-05-07
+2025-05-22
 
 - **Reset Password TP#35260**: Resolved an issue where the reset password button was not appearing on custom login pages.
+- **Link Icon Breadcrumb TP#36536**: Updated to display the link icon's title instead of its technical name.
 - **Search Bar TP#35424**: Fixed an issue where the search bar appeared when pressing 'f' after tabbing. The new shortcut to open the search bar is **Ctrl + Space**.
 - **User Descriptions TP#32108**: User descriptions for an area are now displayed in a tooltip when hovering over an element.
 - **Reversed Digitals TP#32861**: Added a feature similar to **Reversed Alarm Titles**, but for digital signals.
