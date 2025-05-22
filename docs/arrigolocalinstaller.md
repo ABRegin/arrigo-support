@@ -5,6 +5,26 @@ description: Change Log
 ---
 # Change Log
 
+## 1.5.24
+
+2025-05-22
+
+- **Reset Password TP#35260**: Resolved an issue where the reset password button was not appearing on custom login pages.
+- **Link Icon Breadcrumb TP#36536**: Updated to display the link icon's title instead of its technical name.
+- **Search Bar TP#35424**: Fixed an issue where the search bar appeared when pressing 'f' after tabbing. The new shortcut to open the search bar is **Ctrl + Space**.
+- **User Descriptions TP#32108**: User descriptions for an area are now displayed in a tooltip when hovering over an element.
+- **Reversed Digitals TP#32861**: Added a feature similar to **Reversed Alarm Titles**, but for digital signals.
+- **Maneuver Panel TP#38378, TP#40627**:
+    - Now supports multiline text editing.
+    - Comma-separated number formatting is now supported.
+    - Fixed a bug related to number formatting.
+- **Version Info TP#40798**: Fixed a broken link when holding down the left click on the Arrigo logo. The installed Arrigo version is now displayed.
+- **Signal Colors TP#40906**: Resolved an issue where the selected signal color was not being applied. The option to select a color is only available for signals added from Arrigo.
+- **Language Changes TP#40786**: Standardized the language so that all instances now say **New Alarm** instead of some saying **New A Alarm**.
+- **Arrigo Startup TP#34228**: Fixed an issue where Arrigo sometimes failed to start due to an intermittent timing problem.
+- **Collecting signals TP#40518**: Resolved an issue where the **Collected Signals** view displayed elements other than controller variables.
+- **Prepareoffline TP#39244**: Ensured that the **prepareoffline** flag on the Arrigo installer works correctly.
+
 ## 1.5.21
 
 2024-12-17

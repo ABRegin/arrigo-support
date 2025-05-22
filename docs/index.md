@@ -10,8 +10,8 @@ description: Releases and Change Log
 
 | Release  | Version                                      | Required EXO installation | Download |
 | -------- | -------------------------------------------- | ------------------------- | --------    |
-| Latest   | [1.5.21](./arrigolocalinstaller.html#1521) | EXO2024 | Via installer (`--latest` flag provided)<br />or [download](https://arrigoartifacts.blob.core.windows.net/arrigo/latest/ArrigoLocalInstaller-EXO2024-1.5.21.exe?sp=r&st=2024-12-20T09:22:31Z&se=2025-12-20T17:22:31Z&spr=https&sv=2022-11-02&sr=b&sig=N1vIBR9%2BfKGgUH42L20U3tCQmspd2fy%2FwdPeDUXngH0%3D) |
-| Stable   | [1.5.21](./arrigolocalinstaller.html#1521) | EXO2024 | [Download](https://arrigoartifacts.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2024-1.5.21.exe?sp=r&st=2024-12-20T09:25:38Z&se=2025-12-20T17:25:38Z&spr=https&sv=2022-11-02&sr=b&sig=QEe1NwYKEkt3YYlD%2F4pbRvlRiqN6%2Bdp3tUcofef6JwY%3D) |
+| Latest   | [1.5.24](./arrigolocalinstaller.html#1524) | EXO2024 | Via installer (`--latest` flag provided)<br />or [download](https://arrigoartifacts.blob.core.windows.net/arrigo/latest/ArrigoLocalInstaller-EXO2024-1.5.24.exe?se=2025-11-18T08%3A00%3A50Z&sp=r&sv=2025-05-05&sr=b&sig=RuT7OKtUWHNdu%2BMHnPX5XOHd6pKYSSArYSwzwwhM/3k%3D) |
+| Stable   | [1.5.24](./arrigolocalinstaller.html#1524) | EXO2024 | [Download](https://arrigoartifacts.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2024-1.5.24.exe?se=2025-11-18T08%3A32%3A52Z&sp=r&sv=2025-05-05&sr=b&sig=/TGXg%2BWVsJnkL1kFAjyamUYKAzi8VXTsgafIfTkvXtI%3D) |
 | Legacy   | [1.4.85](./arrigolocalinstaller.html#1485) | EXO2023 Edition 1 build 224 | [Download](https://arrigoartifacts.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2023Edition1_224-1.4.85.exe?sp=r&st=2025-01-07T08:24:17Z&se=2025-06-30T15:24:17Z&spr=https&sv=2022-11-02&sr=c&sig=TKCIDNx9OZdKXFum42aJ5QAuV1EmwHY5dBO1meVDLvs%3D) |
 
 *System requirements, hardware recommendations and installation instructions can be found at [arrigodocs.regincontrols.com](https://arrigodocs.regincontrols.com//Install%20and%20Configure).*
@@ -30,3 +30,6 @@ description: Releases and Change Log
 | Release  | Version                                      |  Download |
 | -------- | -------------------------------------------- |  --------------------------------- |
 | Current  | 3.00.32   |  [Download](https://arrigoartifacts.blob.core.windows.net/arrigo/Nimbus%20Alarm%20Server%203.00.32%20for%20Arrigo%20Setup.exe?sp=r&st=2025-01-07T08:24:17Z&se=2025-06-30T15:24:17Z&spr=https&sv=2022-11-02&sr=c&sig=TKCIDNx9OZdKXFum42aJ5QAuV1EmwHY5dBO1meVDLvs%3D) |
+
+## Additional Patches
+Languague [files](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ESKMdkUFvw5PjVa9UTH625gBYs3irzqc4-dj27BR_0idtg?e=uRtzsM) to fix issue regarding **Reset Password**
