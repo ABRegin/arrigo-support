@@ -29,7 +29,7 @@ description: Releases and Change Log
 
 | Release  | Version                                      |  Download |
 | -------- | -------------------------------------------- |  --------------------------------- |
-| Current  | 3.00.32   |  [Download](https://arrigoartifacts.blob.core.windows.net/arrigo/Nimbus%20Alarm%20Server%203.00.32%20for%20Arrigo%20Setup.exe?sp=r&st=2025-01-07T08:24:17Z&se=2025-06-30T15:24:17Z&spr=https&sv=2022-11-02&sr=c&sig=TKCIDNx9OZdKXFum42aJ5QAuV1EmwHY5dBO1meVDLvs%3D) |
+| Current  | 3.00.32   |  [Download](https://arrigoartifacts.blob.core.windows.net/arrigo/Nimbus%20Alarm%20Server%203.00.32%20for%20Arrigo%20Setup.exe?sp=r&st=2025-08-26T07:12:14Z&se=2027-04-28T15:27:14Z&spr=https&sv=2024-11-04&sr=b&sig=Eh0YZKD%2B0xEa2B73krpR36J3WCrR038WXyuC4PSzKY4%3D) |
 
 ## Additional Patches
 Languague [files](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ESKMdkUFvw5PjVa9UTH625gBYs3irzqc4-dj27BR_0idtg?e=uRtzsM) to fix issue regarding **Reset Password**
