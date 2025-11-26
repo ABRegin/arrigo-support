@@ -7,8 +7,8 @@
   },
   {
     "name": "ArrigoLocalInstaller",
-    "version": "1.5.24",
-    "url": "https://arrigoartifacts.blob.core.windows.net/arrigo/latest/ArrigoLocalInstaller-EXO2024-1.5.24.exe?se=2025-11-18T08%3A00%3A50Z&sp=r&sv=2025-05-05&sr=b&sig=RuT7OKtUWHNdu%2BMHnPX5XOHd6pKYSSArYSwzwwhM/3k%3D",
+    "version": "1.5.27",
+    "url": "https://arrigoartifacts.blob.core.windows.net/arrigo/latest/ArrigoLocalInstaller-EXO2024-1.5.27.exe?se=2026-05-25T13%3A10%3A57Z&sp=r&sv=2025-11-05&sr=b&sig=rU202mLihIjOFvn1CiCkQ0hWwkdz2zaUJ5mHTx/DOAM%3D",
     "branch": "latest"
   }
 ]
