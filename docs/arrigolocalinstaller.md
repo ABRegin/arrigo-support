@@ -9,10 +9,10 @@ description: Change Log
 - **License Banner Update TP#27103**: The license banner now appears at the bottom of the window and automatically disappears after 5 seconds.
 - **View Zoom Feature TP#30953, TP#41530**: You can now zoom in on views. To enable this feature, add `//zoomEnable` to the `onOpen` script field.
 - **Negative Filtering TP#39616**: You can now exclude words in filtering by prefixing them with an exclamation mark (`!`).
--  **Maximum Event Export Limit (TP#45334)**: A new `maxAmountRowsExport` property in [settings.json] allows you to configure the maximum number of rows exported to CSV (digitals, analogs, alarms, or user logs). The default value is 3,000 rows.
+-  **Maximum Event Export Limit TP#45334**: A new `maxAmountRowsExport` property in [settings.json] allows you to configure the maximum number of rows exported to CSV (digitals, analogs, alarms, or user logs). The default value is 3,000 rows.
 -  **Collection mode loads all signals TP#45356**: Views with view-containers now loads correctly
--  **Signal Collector Position**: The signal collector browser has been moved from the right side of a view to the left.
--  **Views are left aligned**: All views are now left aligned instead of centered
+-  **Signal Collector Position**: The signal collector browser has been moved from the right side of an animaton-view to the left.
+-  **Views are aligned left**: All views are now aligned left instead of centered
 
 
 ## 1.5.24
@@ -1793,4 +1793,5 @@ The first one. The hot stuff. So hot that we haven't even tried every aspect of 
 - Link icons in groups
 - Arguments in folder views files
 - Lots of svg files included
+
 
