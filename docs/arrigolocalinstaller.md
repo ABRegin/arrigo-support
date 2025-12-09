@@ -6,6 +6,9 @@ description: Change Log
 # Change Log
 
 ## 1.6.1
+
+2025-12-09
+
 - **License Banner Update TP#27103**: The license banner now appears at the bottom of the window and automatically disappears after 5 seconds.
 - **View Zoom Feature TP#30953, TP#41530**: You can now zoom in on views. To enable this feature, add `//zoomEnable` to the `onOpen` script field.
 - **Negative Filtering TP#39616**: You can now exclude words in filtering by prefixing them with an exclamation mark (`!`).
@@ -1793,5 +1796,6 @@ The first one. The hot stuff. So hot that we haven't even tried every aspect of 
 - Link icons in groups
 - Arguments in folder views files
 - Lots of svg files included
+
 
 
