@@ -5,18 +5,23 @@ description: Change Log
 ---
 # Change Log
 
+## 1.6.2
+
+2025-12-15
+
+-  **User logs, digital history, alarm history**: The log record now includes the parent area title.
+
 ## 1.6.1
 
 2025-12-09
 
-- **License Banner Update TP#27103**: The license banner now appears at the bottom of the window and automatically disappears after 5 seconds.
-- **View Zoom Feature TP#30953, TP#41530**: You can use zoom on animation views. To enable this feature, add `//zoomEnable` to the animation view’s `OnOpen` script using View Designer. 
-- **Negative Filtering TP#39616**: You can now exclude words in filtering by prefixing them with an exclamation mark (`!`).
--  **Maximum Event Export Limit TP#45334**: A new `maxAmountRowsExport` property in settings.json allows you to configure the maximum number of rows exported to CSV (digital, analog, alarm, and user logs). The default value is 3,000 rows.
--  **Collection mode loads all signals TP#45356**: Animation views with view-containers now load correctly.
+- **License banner update, TP#27103**: The license banner now appears at the bottom of the window and automatically disappears after 5 seconds.
+- **View zoom feature, TP#30953, TP#41530**: You can use zoom on animation views. To enable this feature, add `//zoomEnable` to the animation view’s `OnOpen` script using View Designer. 
+- **Negative filtering, TP#39616**: You can now exclude words in filtering by prefixing them with an exclamation mark (`!`).
+-  **Maximum event export limit, TP#45334**: A new `maxAmountRowsExport` property in settings.json allows you to configure the maximum number of rows exported to CSV (digital, analog, alarm, and user logs). The default value is 3,000 rows.
+-  **Collection mode loads all signals, TP#45356**: Animation views with view-containers now load correctly.
 -  **Signal collector position**: The signal collector browser is now located to the left of the animation view instead of the right.
 -  **Views are aligned left**: All animation views are now aligned left instead of centered.
--  **User logs, digital history, alarm history**: The log record now includes the parent area title.
 -  **Improved search filter in user logs**: You are now able to search on manoeuvre texts and comments, and get the event title as a result.  
 
 
@@ -1798,6 +1803,7 @@ The first one. The hot stuff. So hot that we haven't even tried every aspect of 
 - Link icons in groups
 - Arguments in folder views files
 - Lots of svg files included
+
 
 
 
