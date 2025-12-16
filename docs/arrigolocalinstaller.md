@@ -16,7 +16,7 @@ description: Change Log
 2025-12-09
 
 - **License banner update, TP#27103**: The license banner now appears at the bottom of the window and automatically disappears after 5 seconds.
-- **View zoom feature, TP#30953, TP#41530**: You can use zoom on animation views. To enable this feature, add `//zoomEnable` to the animation view’s `OnOpen` script using View Designer. 
+- **View zoom feature, TP#30953, TP#41530**: You can use zoom on animation views. To enable this feature, add `//zoomEnabled` to the animation view’s `OnOpen` script using View Designer. 
 - **Negative filtering, TP#39616**: You can now exclude words in filtering by prefixing them with an exclamation mark (`!`).
 -  **Maximum event export limit, TP#45334**: A new `maxAmountRowsExport` property in settings.json allows you to configure the maximum number of rows exported to CSV (digital, analog, alarm, and user logs). The default value is 3,000 rows.
 -  **Collection mode loads all signals, TP#45356**: Animation views with view-containers now load correctly.
@@ -1803,6 +1803,7 @@ The first one. The hot stuff. So hot that we haven't even tried every aspect of 
 - Link icons in groups
 - Arguments in folder views files
 - Lots of svg files included
+
 
 
 
