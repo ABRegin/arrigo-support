@@ -5,6 +5,15 @@ description: Change Log
 ---
 # Change Log
 
+## 1.6.X
+
+2026-10-YY
+
+- **.NET 10 and Node.js 24, TP#48751**: All services now run on .NET 10, and the installer installs the .NET 10 Hosting Bundle and Node.js 24.
+- **Alarm events in charts and exports, TP#48744, TP#48747**: Fixed an issue where triggered and activated events were missing when alarm events were shown in a chart or exported.
+- **Notification log, TP#48755**: Fixed an issue where the alarm notification log opened an empty page if the area had no alarm link or widget.
+- **Negative filtering in Alarms and Events, TP#51399**: The `!` exclusion filter introduced in 1.6.1 now also works in Alarms and Events. For example, `!test` hides all entries containing "test".
+
 ## 1.6.2
 
 2025-12-15
