@@ -11,8 +11,14 @@ description: Change Log
 
 - **.NET 10 and Node.js 24, TP#48751**: All services now run on .NET 10, and the installer installs the .NET 10 Hosting Bundle and Node.js 24.
 - **Alarm events in charts and exports, TP#48744, TP#48747**: Fixed an issue where triggered and activated events were missing when alarm events were shown in a chart or exported.
+- **Alarm Manager Area Link on non Alarmed breaks TP#47258 Related: (TP#47259 )** Fixed Alarm link breaking when Alarm status in Normal, also related to reversed alarm/digitals titles.
 - **Notification log, TP#48755**: Fixed an issue where the alarm notification log opened an empty page if the area had no alarm link or widget.
 - **Negative filtering in Alarms and Events, TP#51399**: The `!` exclusion filter introduced in 1.6.1 now also works in Alarms and Events. For example, `!test` hides all entries containing "test".
+- **Alarm notification log leads to empty page if area has no alarm link or widget TP#45645**   
+- **Scroll bar does not work in popup windows TP#45829**
+- **Notification Log in English on Swedish version TP#46440**
+- **Chart, logging of Alarm Events, event Activated not shown TP#46620**
+
 
 ## 1.6.2
 
