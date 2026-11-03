@@ -19,7 +19,7 @@ description: Change Log
 - **Notification Log in English on Swedish version TP#46440**
 - **Chart, logging of Alarm Events, event Activated not shown TP#46620 Related: (#46438)**
 - **Historical chart realtime values TP#42328** Fixed stability in chart when adding realtime values
-- **Arrigo BMS - Update pm2 from 4.5.5 to latest in ALI TP#51547** 
+- **Arrigo BMS - Update pm2 from 4.5.5 to latest TP#51547** 
 
 
 ## 1.6.2
