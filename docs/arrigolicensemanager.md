@@ -1,10 +1,23 @@
 ---
 layout: main
-title: Releases - Arrigo Licens Manager
+title: Releases - Arrigo License Manager
 description: Change Log
 ---
 
 # Change Log
+
+## 1.2.25
+
+*2026-11-17*
+
+### Security
+- The License Manager now uses its own signing key, separate from Arrigo Local. Existing installations are moved to the new key when they are updated.
+- Improved protection of credentials and log files.
+- The License Manager's WAMP router is updated with the same security improvements as Arrigo Local.
+
+### Changes
+- Updated the WAMP router to .NET 10. No separate .NET runtime needs to be installed.
+- Updated dependencies.
 
 ## 1.2.15
 
