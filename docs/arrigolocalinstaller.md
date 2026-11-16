@@ -36,7 +36,7 @@ Arrigo Local 1.7.0 includes functional corrections and security fixes, strengthe
 
 ### Security
 
-- This release contains important security improvements. We recommend that all sites update. Regin sends customers separate instructions for this update.
+- This release contains important security improvements. We recommend that all sites update.
 
 ### Installation and upgrade improvements
 
