@@ -19,7 +19,7 @@ description: Releases and Change Log
 
 | Release  | Version                                      |  Download |
 | -------- | -------------------------------------------- |  --------------------------------- |
-| Current  | [1.2.15](./arrigolicensemanager.html#1215) | [Download](https://arrigoartifacts.blob.core.windows.net/arrigo/stable/License-Manager-Installer.1.2.25.exe?sp=r&st=2026-11-16T13:35:56Z&se=2028-11-17T21:50:56Z&spr=https&sv=2026-02-06&sr=b&sig=K17ZJd4d4lkuLz9mqIWc8aU5SHw8%2BiKQBe903RiMWlo%3D) |
+| Current  | [1.2.25](./arrigolicensemanager.html#1225) | [Download](https://arrigoartifacts.blob.core.windows.net/arrigo/stable/License-Manager-Installer.1.2.25.exe?sp=r&st=2026-11-16T13:35:56Z&se=2028-11-17T21:50:56Z&spr=https&sv=2026-02-06&sr=b&sig=K17ZJd4d4lkuLz9mqIWc8aU5SHw8%2BiKQBe903RiMWlo%3D) |
 
 *Installation instructions and general help can be found at [arrigodocs.regincontrols.com](https://arrigodocs.regincontrols.com//Install%20and%20Configure/02_Arrigo%20License%20Manager%20installer/).*
 
