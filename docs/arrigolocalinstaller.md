@@ -5,6 +5,73 @@ description: Change Log
 ---
 # Change Log
 
+## 1.7.0
+
+2026-11-17
+
+Arrigo Local 1.7.0 includes functional corrections and security fixes, strengthened access controls and improvements to installation and everyday operation. Review the upgrade notice before installation, particularly for sites with custom integrations or project configurations.
+
+### Functional corrections and platform updates
+
+- **.NET 10 and Node.js 24, TP#48751**: All Arrigo services now run on .NET 10. The installer installs the .NET 10 Hosting Bundle and Node.js 24.
+- **Alarm events in charts and exports, TP#48744, TP#48747, TP#46620**: Fixed missing triggered and activated alarm events in charts and exports. These events are now included in the displayed and exported alarm history.
+- **Alarm area links and detail titles, TP#47258, TP#47259**: Fixed navigation through an alarm's area link when the alarm status is Normal. Also corrected reversed titles in alarm and digital detail views.
+- **Alarm notification log, TP#48755, TP#45645**: Fixed an issue where the alarm notification log opened an empty page if the area had no alarm link or widget.
+- **Exclusion filtering in Alarms and Events, TP#51399**: The `!` exclusion filter introduced in 1.6.1 now also works in Alarms and Events. For example, `!test` hides entries containing "test".
+- **Popup-window scrolling, TP#45829**: Fixed scrollbars not working in popup windows.
+- **Swedish notification log text, TP#46440**: Corrected notification log text that appeared in English when Swedish was selected.
+- **Historical chart stability, TP#42328**: Improved stability when adding realtime values to a historical chart.
+- **PM2 update, TP#51547**: Updated the bundled PM2 process manager from 4.5.5 to 7.0.4.
+- **Stored state preservation**: Fixed an issue where updating one stored state value could overwrite other values in the same file.
+- **File upload reliability**: Fixed incorrect ordering of multi-part uploads on Windows and improved handling of interrupted transfers. Upload limits and cleanup of inactive transfers improve resource management.
+- **API schema compatibility**: Corrected API field exposure and restored required arguments for affected update operations. Incomplete requests are rejected earlier.
+- **Event and history results**: Corrected missing signal information and intermittent errors in event-history queries. History simplification and empty-result counts now follow the intended behavior.
+- **User-history information**: Restored user, account and descriptive information in affected user-history responses.
+- **Writes without optional comments**: Fixed an issue where a successful value change could return an error and be missing from user history when no optional comment was supplied. Mandatory-comment requirements remain enforced.
+- **Logging configuration feedback**: Saving logging settings no longer reports success when the change was not written. Failed updates return an explanatory error.
+- **Alarm and digital detail views**: Fixed failures when detail views encountered missing history or descriptive text. Also corrected navigation from alarm history to the associated area.
+- **Chart restoration**: Corrected restoration of live chart values and axis settings after saving and reopening a chart.
+- **Scrolling and keyboard interaction**: Restored mouse-wheel handling in affected lists and corrected unintended page zoom when using keyboard modifiers with the mouse wheel.
+- **Swedish translations**: Added Swedish text for notification-center actions.
+
+### Security
+
+- This release contains important security improvements. We recommend that all sites update.
+
+### Installation and upgrade improvements
+
+- **Service restart and recovery**: Fixed shutdown behavior that could leave background processes running and prevent services from restarting. The installer also repairs service registrations whose required files are missing.
+- **EXO installation compatibility**: Improved compatibility with updated EXO installations. Required Arrigo components are restored when EXO has been reinstalled or moved.
+- **License Manager coexistence**: Improved upgrade coordination with an installed License Manager.
+- **Installation on customized Windows systems**: Fixed installation steps that could fail when standard Windows utilities were missing from the command-search path.
+- **Installation reporting**: The installation summary identifies configuration steps that need attention.
+- **Maintenance instructions**: Updated the supplied maintenance instructions for the revised service-management procedures.
+
+### Upgrade notice
+
+**Before upgrading**
+
+- Schedule a maintenance window. Installation restarts Arrigo services and EXOscada; an installed License Manager may also restart.
+- If the site has a reverse proxy or load balancer in front of the Arrigo server, add its address to the `trustedProxies` setting in the Arrigo API's `globalsettings.json`. Otherwise, all users share the same sign-in limit and can experience temporary sign-in refusals. This isn't needed when IIS handles HTTPS itself and the router only forwards ports.
+
+**After upgrading**
+
+- Expect users and integrations to sign in again.
+- Check the default administrator account on every project and change its password if it still uses the initial password.
+- Review the installation summary. Installation can complete while configuration steps still need attention.
+- Follow the instructions in the update notice from Regin.
+
+**Behavior changes that may need adjustment**
+
+- Service management requires administrator rights. Use an elevated PowerShell prompt and `Restart-Service PM2` to restart services.
+- Changing logging settings through the API requires the installation option `-allowloggingrules`, and the calling user must have the required administrator role.
+- Custom services and server-side scripts operate with reduced permissions. Review administrative or write operations and use the caller's identity with the permissions appropriate to the task.
+- Service credentials created outside the project-attachment configuration may stop working at the next project attach. Configure custom services through project snippets so their credentials are included in renewal.
+- Views and images are loaded only from the project folder and the EXO libraries. Move resources stored elsewhere into the project.
+- API sign-in requires passwords that meet the configured policy. Clients must handle password-change requirements.
+- GraphQL queries, schema access and live subscriptions require authentication. Review integrations against the API migration guide, including changes to supported fields and required arguments.
+
+
 ## 1.6.2
 
 2025-12-15
