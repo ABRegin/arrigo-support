@@ -1,14 +1,14 @@
 [
   {
     "name": "ArrigoLocalInstaller",
-    "version": "1.5.24",
-    "url": "https://arrigoartifacts.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2024-1.5.24.exe?sp=r&st=2025-11-26T08:31:20Z&se=2028-11-26T16:46:20Z&spr=https&sv=2024-11-04&sr=b&sig=naCfOq4OEdsIqrx%2FdlABfVtKyBGZr6w%2BjLxLL4s3UWI%3D",
+    "version": "1.7.0",
+    "url": "https://arrigoartifacts.blob.core.windows.net/arrigo/latest/ArrigoLocalInstaller-EXO2024-1.7.0.exe?sp=r&st=2026-11-17T07:17:30Z&se=2028-11-17T15:32:30Z&spr=https&sv=2026-02-06&sr=b&sig=f1wPIWBipTl6ouG9WpzLaUVKFE0MWDPaaR0mkauYKrg%3D",
     "branch": "stable"
   },
   {
     "name": "ArrigoLocalInstaller",
-    "version": "1.6.2",
-    "url": "https://arrigoartifacts.blob.core.windows.net/arrigo/latest/ArrigoLocalInstaller-EXO2024-1.6.2.exe?se=2026-06-13T10%3A52%3A53Z&sp=r&sv=2025-11-05&sr=b&sig=jhrroKe86V6vp/N7hzi6lRApTspxQoxAoRB98tDHZfM%3D",
+    "version": "1.7.0",
+    "url": "https://arrigoartifacts.blob.core.windows.net/arrigo/latest/ArrigoLocalInstaller-EXO2024-1.7.0.exe?sp=r&st=2026-11-17T07:17:30Z&se=2028-11-17T15:32:30Z&spr=https&sv=2026-02-06&sr=b&sig=f1wPIWBipTl6ouG9WpzLaUVKFE0MWDPaaR0mkauYKrg%3D",
     "branch": "latest"
   }
 ]

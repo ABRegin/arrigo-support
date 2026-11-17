@@ -10,9 +10,7 @@ description: Releases and Change Log
 
 | Release  | Version                                      | Required EXO installation | Download |
 | -------- | -------------------------------------------- | ------------------------- | --------    |
-| Latest   | [1.6.2](./arrigolocalinstaller.html#162) | EXO2024 | Via installer (`--latest` flag provided)<br />or [download](https://arrigoartifacts.blob.core.windows.net/arrigo/latest/ArrigoLocalInstaller-EXO2024-1.6.2.exe?sp=r&st=2026-08-25T08:21:04Z&se=2028-08-25T16:36:04Z&spr=https&sv=2026-02-06&sr=b&sig=zY8G434J5cxQx%2BuzT%2B8C6WyRhHk8%2F%2B1F0n4ncBt%2BBDw%3D) |
-| Stable   | [1.5.24](./arrigolocalinstaller.html#1524) | EXO2024 | [Download](https://arrigoartifacts.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2024-1.5.24.exe?sp=r&st=2025-11-26T08:31:20Z&se=2028-11-26T16:46:20Z&spr=https&sv=2024-11-04&sr=b&sig=naCfOq4OEdsIqrx%2FdlABfVtKyBGZr6w%2BjLxLL4s3UWI%3D) |
-| Legacy   | [1.4.85](./arrigolocalinstaller.html#1485) | EXO2023 Edition 1 build 224 | [Download](https://arrigoartifacts.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2023Edition1_224-1.4.85.exe?sp=r&st=2025-01-07T08:24:17Z&se=2025-06-30T15:24:17Z&spr=https&sv=2022-11-02&sr=c&sig=TKCIDNx9OZdKXFum42aJ5QAuV1EmwHY5dBO1meVDLvs%3D) |
+| Stable   | [1.7.0](./arrigolocalinstaller.html#170) | EXO2024 | [Download](https://arrigoartifacts.blob.core.windows.net/arrigo/latest/ArrigoLocalInstaller-EXO2024-1.7.0.exe?sp=r&st=2026-11-17T07:17:30Z&se=2028-11-17T15:32:30Z&spr=https&sv=2026-02-06&sr=b&sig=f1wPIWBipTl6ouG9WpzLaUVKFE0MWDPaaR0mkauYKrg%3D) |
 
 *System requirements, hardware recommendations and installation instructions can be found at [arrigodocs.regincontrols.com](https://arrigodocs.regincontrols.com//Install%20and%20Configure).*
 
