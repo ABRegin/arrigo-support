@@ -49,12 +49,12 @@ Arrigo Local 1.7.0 includes functional corrections and security fixes, strengthe
 
 ### Update notice
 
-**Before upgrading**
+**Before updating**
 
 - Schedule a maintenance window. Installation restarts Arrigo services and EXOscada; an installed License Manager may also restart.
 - If the site has a reverse proxy or load balancer in front of the Arrigo server, add its address to the `trustedProxies` setting in the Arrigo API's `globalsettings.json`. Otherwise, all users share the same sign-in limit and can experience temporary sign-in refusals. This isn't needed when IIS handles HTTPS itself and the router only forwards ports.
 
-**After upgrading**
+**After updating**
 
 - Expect users and integrations to sign in again.
 - Check the default administrator account on every project and change its password if it still uses the initial password.
