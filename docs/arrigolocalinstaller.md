@@ -9,7 +9,7 @@ description: Change Log
 
 2026-11-17
 
-Arrigo Local 1.7.0 includes functional corrections and security fixes, strengthened access controls and improvements to installation and everyday operation. Review the upgrade notice before installation, particularly for sites with custom integrations or project configurations.
+Arrigo Local 1.7.0 includes functional corrections and security fixes, strengthened access controls and improvements to installation and everyday operation. Review the update notice before installation, particularly for sites with custom integrations or project configurations.
 
 ### Functional corrections and platform updates
 
@@ -38,23 +38,23 @@ Arrigo Local 1.7.0 includes functional corrections and security fixes, strengthe
 
 - This release contains important security improvements. We recommend that all sites update.
 
-### Installation and upgrade improvements
+### Installation and update improvements
 
 - **Service restart and recovery**: Fixed shutdown behavior that could leave background processes running and prevent services from restarting. The installer also repairs service registrations whose required files are missing.
 - **EXO installation compatibility**: Improved compatibility with updated EXO installations. Required Arrigo components are restored when EXO has been reinstalled or moved.
-- **License Manager coexistence**: Improved upgrade coordination with an installed License Manager.
+- **License Manager coexistence**: Improved update coordination with an installed License Manager.
 - **Installation on customized Windows systems**: Fixed installation steps that could fail when standard Windows utilities were missing from the command-search path.
 - **Installation reporting**: The installation summary identifies configuration steps that need attention.
 - **Maintenance instructions**: Updated the supplied maintenance instructions for the revised service-management procedures.
 
-### Upgrade notice
+### Update notice
 
-**Before upgrading**
+**Before updating**
 
 - Schedule a maintenance window. Installation restarts Arrigo services and EXOscada; an installed License Manager may also restart.
 - If the site has a reverse proxy or load balancer in front of the Arrigo server, add its address to the `trustedProxies` setting in the Arrigo API's `globalsettings.json`. Otherwise, all users share the same sign-in limit and can experience temporary sign-in refusals. This isn't needed when IIS handles HTTPS itself and the router only forwards ports.
 
-**After upgrading**
+**After updating**
 
 - Expect users and integrations to sign in again.
 - Check the default administrator account on every project and change its password if it still uses the initial password.
